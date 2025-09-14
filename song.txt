@@ -1,17 +1,5 @@
-First
-Second
-Third
-Fourth
-Fifth
-Sixth
-Seventh
-Eighth
-Ninth
-Tenth
-i changed something
-Jjbbjbljbljb
-hbjhbjhbjhbhjb
-11111111111111
-jknvdkfjnvbmgbfjgnbjnjgnbjrgnbjkrn
-Commit second try
-пцкпцекпкепуке
+The first line
+The second line
+The third line
+
+So now 14 of September, Im sitting here and typing the text to see how it gonna change in my repo
